@@ -1,4 +1,4 @@
 # PLP_Academy
 NkanyisoPLP
 
-I love coffee
+I love coffee.
